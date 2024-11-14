@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckv1XnU7ZbChtNg2BNxFUjyFKDSmeLW1N9G8UJtKx/8ZZETVRG2N7zQubYXB+/fN7GfSgv4poUG4DyYdVjx8fg==",
+  "dgSpecHash": "KshiszA734eX84HdN/nOfp5k06Lcp+CNh0obq9oxX3lmIRVaDjX0ZK4YpENd44QX5XazJktPFAL1mk4tI4CLlg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Bookstore\\Bookstore.csproj",
+  "projectFilePath": "C:\\Users\\ana.conceicao2\\bookstore\\Bookstore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

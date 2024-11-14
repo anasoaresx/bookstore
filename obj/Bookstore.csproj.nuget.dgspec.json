@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Bookstore\\Bookstore.csproj": {}
+    "C:\\Users\\ana.conceicao2\\bookstore\\Bookstore.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Bookstore\\Bookstore.csproj": {
+    "C:\\Users\\ana.conceicao2\\bookstore\\Bookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Bookstore\\Bookstore.csproj",
+        "projectUniqueName": "C:\\Users\\ana.conceicao2\\bookstore\\Bookstore.csproj",
         "projectName": "Bookstore",
-        "projectPath": "C:\\dev\\Bookstore\\Bookstore.csproj",
+        "projectPath": "C:\\Users\\ana.conceicao2\\bookstore\\Bookstore.csproj",
         "packagesPath": "C:\\Users\\ana.conceicao2\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Bookstore\\obj\\",
+        "outputPath": "C:\\Users\\ana.conceicao2\\bookstore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.conceicao2\\AppData\\Roaming\\NuGet\\NuGet.Config",
